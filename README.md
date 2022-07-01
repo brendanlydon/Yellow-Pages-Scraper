@@ -1,5 +1,5 @@
 # Yellow-Pages-Scraper
-Use Scrapy to pull information on any combination of location and key term from Yellow Pages.
+Use Scrapy to pull information on any combination of location and key term from Yellow Pages.<br>
 ***MUST HAVE SCRAPY AND PYTHON INSTALLED TO USE
 
 This script will build a JSON file and a CSV file containing the following information for any keyword/location pair on https://www.yellowpages.com/.
